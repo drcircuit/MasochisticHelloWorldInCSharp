@@ -1,0 +1,5 @@
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorld.Resources\bin\Debug\HelloWorld.Resources.dll
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorld.Resources\bin\Debug\HelloWorld.Resources.pdb
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorld.Resources\obj\Debug\HelloWorld.Resources.csprojResolveAssemblyReference.cache
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorld.Resources\obj\Debug\HelloWorld.Resources.dll
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorld.Resources\obj\Debug\HelloWorld.Resources.pdb

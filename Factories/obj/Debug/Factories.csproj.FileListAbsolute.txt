@@ -1,0 +1,11 @@
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\Factories\bin\Debug\Factories.dll
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\Factories\bin\Debug\Factories.pdb
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\Factories\bin\Debug\HelloWorld.Interfaces.dll
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\Factories\bin\Debug\HelloWorld.Library.dll
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\Factories\bin\Debug\HelloWorld.Resources.dll
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\Factories\bin\Debug\HelloWorld.Interfaces.pdb
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\Factories\bin\Debug\HelloWorld.Library.pdb
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\Factories\bin\Debug\HelloWorld.Resources.pdb
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\Factories\obj\Debug\Factories.csprojResolveAssemblyReference.cache
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\Factories\obj\Debug\Factories.dll
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\Factories\obj\Debug\Factories.pdb

@@ -1,0 +1,5 @@
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorld.Interfaces\bin\Debug\HelloWorld.Interfaces.dll
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorld.Interfaces\bin\Debug\HelloWorld.Interfaces.pdb
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorld.Interfaces\obj\Debug\HelloWorld.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorld.Interfaces\obj\Debug\HelloWorld.Interfaces.dll
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorld.Interfaces\obj\Debug\HelloWorld.Interfaces.pdb

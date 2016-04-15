@@ -1,0 +1,13 @@
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe.config
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorldConsole\bin\Debug\HelloWorldConsole.pdb
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorldConsole\bin\Debug\Factories.dll
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorldConsole\bin\Debug\HelloWorld.Interfaces.dll
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorldConsole\bin\Debug\HelloWorld.Library.dll
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorldConsole\bin\Debug\HelloWorld.Resources.dll
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorldConsole\bin\Debug\Factories.pdb
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorldConsole\bin\Debug\HelloWorld.Interfaces.pdb
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorldConsole\bin\Debug\HelloWorld.Library.pdb
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorldConsole\bin\Debug\HelloWorld.Resources.pdb
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorldConsole\obj\Debug\HelloWorldConsole.exe
+C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorldConsole\obj\Debug\HelloWorldConsole.pdb
