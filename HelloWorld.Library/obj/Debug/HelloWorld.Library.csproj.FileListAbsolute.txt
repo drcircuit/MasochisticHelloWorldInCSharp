@@ -1,9 +1,0 @@
-C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorld.Library\bin\Debug\HelloWorld.Library.dll
-C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorld.Library\bin\Debug\HelloWorld.Library.pdb
-C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorld.Library\bin\Debug\HelloWorld.Interfaces.dll
-C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorld.Library\bin\Debug\HelloWorld.Resources.dll
-C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorld.Library\bin\Debug\HelloWorld.Interfaces.pdb
-C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorld.Library\bin\Debug\HelloWorld.Resources.pdb
-C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorld.Library\obj\Debug\HelloWorld.Library.csprojResolveAssemblyReference.cache
-C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorld.Library\obj\Debug\HelloWorld.Library.dll
-C:\Users\Espen\Source\Repos\gitFlowTest\HelloWrld\HelloWorld.Library\obj\Debug\HelloWorld.Library.pdb
