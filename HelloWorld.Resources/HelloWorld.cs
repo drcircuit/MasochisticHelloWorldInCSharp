@@ -4,7 +4,7 @@
     {
         public class Messages
         {
-            public static string PrimaryMessage = "Hello World";
+            public static string PrimaryMessage = "Hello, World!";
         }
     }
 }
